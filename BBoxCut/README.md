@@ -60,10 +60,6 @@ BBoxCut achieves significant mAP improvements on the GWHD 2021 dataset:
 
 ### Qualitative Results
 
-<div align="center">
-  <img src="assets/qualitative_results.png" alt="Qualitative Comparison" width="800"/>
-  <p><i>Left to right: Baseline, CutOut, Region-Aware RE, BBoxCut (Ours)</i></p>
-</div>
 
 ## 🔧 Installation
 
@@ -470,5 +466,6 @@ If you find this project helpful, please consider giving it a star ⭐!
   Made with ❤️ for advancing agricultural AI
 
 </div>
+
 
 

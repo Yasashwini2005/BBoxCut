@@ -79,7 +79,7 @@ BBoxCut achieves significant mAP improvements on the GWHD 2021 dataset:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BBoxCut.git
+git clone https://github.com/Yasashwini2005/BBoxCut.git
 cd BBoxCut
 
 # Create a virtual environment
@@ -472,4 +472,5 @@ If you find this project helpful, please consider giving it a star ⭐!
 
 <div align="center">
   Made with ❤️ for advancing agricultural AI
+
 </div>

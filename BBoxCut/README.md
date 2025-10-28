@@ -7,10 +7,6 @@
 
 > **A novel data augmentation technique that uses random localized masking to simulate realistic occlusions, improving wheat head detection under challenging field conditions.**
 
-<div align="center">
-  <img src="assets/bboxcut_demo.png" alt="BBoxCut Demo" width="800"/>
-  <p><i>BBoxCut selectively masks portions of bounding boxes to simulate real-world occlusions</i></p>
-</div>
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -474,4 +470,5 @@ If you find this project helpful, please consider giving it a star ⭐!
   Made with ❤️ for advancing agricultural AI
 
 </div>
+
 

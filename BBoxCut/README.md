@@ -454,7 +454,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📧 Contact
 
 - **Yasashwini Sai Gowri P** - [GitHub](https://github.com/Yasashwini2005)
-- **Project Link**: [https://github.com/yourusername/BBoxCut](https://github.com/yourusername/BBoxCut)
+- **Project Link**: [https://github.com/yourusername/BBoxCut](https://github.com/Yasashwini2005/BBoxCut)
 
 ## 🌟 Star History
 
@@ -466,6 +466,7 @@ If you find this project helpful, please consider giving it a star ⭐!
   Made with ❤️ for advancing agricultural AI
 
 </div>
+
 
 
 
